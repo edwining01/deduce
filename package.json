@@ -1,0 +1,10 @@
+{
+  "name": "deduce",
+  "version": "0.0.0",
+  "description": "A left to right helper function for functional programming of lodash/fp. Which is like flow.",
+  "main": "index.js",
+  "repository": "https://github.com/edwining01/deduce",
+  "author": "Edwin Ting <edwining01@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
